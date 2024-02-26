@@ -12,10 +12,10 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # 'default', "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR" #"en-US"
 title                    : "WelCome!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -290,3 +290,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
+      date_format: "%Y-%m-%d"
