@@ -12,6 +12,7 @@
 ### 1 - Touch bar flickering 
 ***
 맥북의 터치바가 깜박이는 모습은 다음과 같다.
+
 <img src="../assets/images/20240325_macbook_flickering.gif" style="width:200p"/> 
 
 보시는 바와 같이 터치바가 정신없이 깜박거리는 것을 확인할 수 있다. 문제는 이것이 밖에서 사용할 떄 엄청난 사람들의 시선 집중과 또는 노트북을 열어논 채로 잠자기 모드를 했을 때도 저런 현상이 나기 때문에 새벽 중에 잠을 깨거나 잠들지 못하는 상황이 발생한다는 것이다.
@@ -49,3 +50,8 @@
 다행히도 touch bar의 케이블을 제거하는 것으로는 맥북의 부팅에는 영향이 없었고 정상적으로 사용할 수 있었다.
 
 나와 같은 고민을 가지고 있다면 자신의 touch bar 하드웨어를 확인하고 케이블을 제거하고 수행하길 바란다. 나의 이 경험이 많은 사람에게 도움이 되었으면 한다.
+
+작업한 사진은 다음과 같다.
+
+<img src="../assets/images/20240325_backboard1.jpeg" style="width:200p"/> 
+<img src="../assets/images/20240325_backboard2.jpeg" style="width:200p"/>
